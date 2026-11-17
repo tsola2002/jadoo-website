@@ -1,0 +1,40 @@
+body{
+    background-image: url(../images/decore-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    width: 1270px;
+    margin: 0 auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    margin-top: 10px;
+}
+
+header ul li {
+    margin-left: 40px;
+}
+
+.signup {
+    border: 1px solid #212832;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #212832;
+    font-size: 17px;
+    padding: 20px 30px;
+    font-family: 'Google Sans Code';
+    font-weight: bold;
+}
+
