@@ -38,3 +38,68 @@ header ul li a {
     font-weight: bold;
 }
 
+/* INTRO SECTION */
+.intro{
+    display: flex;
+}
+
+.mission{
+    padding-top: 100px;
+    width: 50%;
+}
+
+.destination{
+    font-weight: 700;
+    color: #df6951;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+}
+
+.enjoyment{
+    color: #181e4b;
+    font-size: 84px;
+    margin-top: 30px;
+    font-family: "Volkhov", serif;
+    font-weight: 700;
+    letter-spacing: -4px;
+    line-height: 84px;
+    margin-bottom: 40px;
+}
+
+.enjoy{
+    background-image: url(../images/Decore.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.subtext{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color: #5e6282;
+    width: 70%;
+    line-height: 30px;
+    font-weight: 500;
+}
+
+.button-block{
+    display: flex;
+    margin-top: 50px;
+}
+
+.find-out-more{
+    background-color: #F1A501;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    height: 60px;
+    width: 170px;
+    Font-family: "Open Sans";
+}
+
+.image-container{
+
+}
+
+
