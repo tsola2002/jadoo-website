@@ -102,4 +102,35 @@ header ul li a {
     margin-top: -14px;
 }
 
+.category{
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    gap: 20px;
+    text-align: center;
+}
+
+.topic {
+    text-transform: uppercase;
+    text-align: center;
+    color: #5e6282;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.sub-services{
+    font-size: 50px;
+    color: #181e4b;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: "Volkhov", serif;
+    font-weight: 700;
+}
+
 
