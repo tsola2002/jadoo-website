@@ -107,7 +107,34 @@ header ul li a {
     padding: 100px 0px;
 }
 
+.category h3{
+    padding: 20px 0px;
+    font-size: 26px;
+    font-family: Open Sans;
+    text-transform: capitalize;
+    color: #1e1d4c;
+    font-weight: 600;
+}
+
+.offer p {
+    color: #5e6282;
+    font-family: "Poppins", sans-serif;
+    padding: 0 60px;
+    line-height: 1.5;
+}
+
+.airplane{
+   
+    margin-top: -33px;
+}
+
+.offer .airplane-caption{
+    padding-top: 0;
+    margin-top: -23px;
+}
+
 .services {
+    padding-top: 100px;
     display: flex;
     justify-content: space-around;
     padding-top: 20px;
@@ -131,6 +158,9 @@ header ul li a {
     text-transform: capitalize;
     font-family: "Volkhov", serif;
     font-weight: 700;
+    margin-top: 20px;
 }
+
+
 
 
