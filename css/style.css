@@ -116,6 +116,10 @@ header ul li a {
     font-weight: 600;
 }
 
+.offer{
+    padding-bottom: 40px;
+}
+
 .offer p {
     color: #5e6282;
     font-family: "Poppins", sans-serif;
@@ -159,6 +163,12 @@ header ul li a {
     font-family: "Volkhov", serif;
     font-weight: 700;
     margin-top: 20px;
+}
+
+.best-flights {
+    box-shadow: 0px 44px 45px lightgrey;
+    border-radius: 50px;
+    
 }
 
 
